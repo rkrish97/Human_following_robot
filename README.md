@@ -13,3 +13,4 @@ You need to install Matlab's navigation toolbox, computer vision toolbox, Roboti
 # How to run
 Once you are done with installing all the dependencies, you are now good to go.
 Start the Virtual machine mounted with ROS indigo. Open an empty scene with just the turtlebot. Open two instances of matlab to run both the detection code along with the movement code simultaneously. Run the movesh.m and the human_detection.m files simultaneously on two separate matlab applications. The robot will now follow the human who moves in a fixed trajectory. 
+AR presentation.pdf contains the slides for the final presentation.
